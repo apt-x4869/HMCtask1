@@ -1,3 +1,0 @@
-[2020-06-17 23:30:39.353] [sharedprocess] [info] main {"machineId":"036329e2111ea1bf1f62394addc9fcc844970b95c418e02ca6a5247b256b4fbf","windowId":2}
-[2020-06-17 23:30:39.400] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/HMCloud/HMCtask1/.vscode-root/User/snippets'
-[2020-06-17 23:31:19.372] [sharedprocess] [info] Starting to clean up unused language packs.
